@@ -1,4 +1,6 @@
+# 
 # The first file contains a ConfigMap to configure fluentd.
+# 
 apiVersion: v1
 kind: ConfigMap
 metadata:
